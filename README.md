@@ -66,6 +66,9 @@ This project focuses on migrating financial data from an SQL database into the A
 - **Notebook Activity** (`BronzeToSilverDataProcess`)
   - Uses PySpark for data transformations
   - Runs on `fintechsparkpool`
+- **Notebook Activity** (`SilverToGoldDataProcess`)
+  - Uses PySpark to create Business-Ready Data
+  - Runs on `fintechsparkpool`
 
 ## Notification System
 - **Web Activity** for sending execution notifications
